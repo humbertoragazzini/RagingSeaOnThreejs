@@ -49,66 +49,10 @@ To clone de repository follow this steps:
 
 ![clone repository](design/animation/clone/clone.gif)
 
-# **Credits**
+## **To run this project base on VITE**
 
-## **Content**
+3.  1.a) Execute in the terminal: npm run install
 
-**The text:**
+    1.b) After installing all the packages run: npm run dev
 
-- I have written all the web site text, my mentor detected some spelling problems, my wife helped me to fixed them. (Thanks to Yamile Simes)
-
-**The form:**
-
-- part of the code was utilized from the official bootstrap website and the code institute learning page
-  _[bootstrap form address](https://getbootstrap.com/docs/5.0/forms/overview/)_.
-
-**The icons:**
-
-- the icons were used from the font awesome website; The link was provided by the code institute learning page
-  _[font awesome web site](https://fontawesome.com/)_.
-
-**The fonts:**
-
-- From google fonts, The link was provided by the code institute learning page
-
-**Navmenu (desktop):**
-
-- I used it from code institute learning videos, and make some modifications
-
-**Navmenu (mobile):**
-
-- Utilized it from bootstrap dropdown and navbar menus.
-  _[navbar bootstrap](https://getbootstrap.com/docs/5.0/components/navbar/)_ /
-  _[dropdown menu bootstrap](https://getbootstrap.com/docs/5.0/components/dropdowns/)_.
-
-**Progress bars:**
-
-- From bootstrap web page in the progress bar section
-  _[progress bars bootstrap](https://getbootstrap.com/docs/5.0/components/progress/)_.
-
-## **Media**
-
-**Background**: made with GIMP on windows.
-
-**Logos**: taken from.
-
-- Jazztel Telecommunication: _[Jazztel](https://www.jazztel.com/)_
-- HDC Computers: _[HDC](https://www.paseolugones.com.ar/marca/hdc/)_
-- Morrisons: _[Morrisons](https://groceries.morrisons.com/webshop/startWebshop.do)_
-- Cisco CCNA: _[Cisco](https://www.cisco.com/)_
-- Secondary School Sarmiento: _[Sarmiento](https://www.facebook.com/IDFSarmiento/)_
-- UTN University: _[UTN](https://www.frc.utn.edu.ar/)_
-
-**Colors**:
-
-- the colors of the entirely website was taken from _[coolors](https://www.coolors.co)_.
-- Thanks to my mentor for provide me with this link.
-
-**Videos**:
-
-- Edited with Resolve.
-- Recorded with Action.
-
-**Gif**
-
-- Edited and Converted with onlineconverter _[online converter](https://www.onlineconverter.com/)_.
+You need to have nodejs and npm installed in the host pc.
