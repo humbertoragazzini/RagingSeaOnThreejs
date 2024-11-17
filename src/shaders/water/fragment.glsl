@@ -4,9 +4,13 @@ uniform float uColorOffset;
 uniform float uColorMultiplier;
 
 varying float vElevation;
+varying vec3 vNormal;
+varying vec3 vPosition;
 
 void main()
 {
+    vec3 viewPosition = normalize(vPosition - cameraPosition);
+    vec3 normal = normalize(vNormal);
     // Base color
     float mixStrength = (vElevation + uColorOffset) * uColorMultiplier;
     mixStrength = smoothstep(0.0, 1.0, mixStrength);

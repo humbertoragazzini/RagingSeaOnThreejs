@@ -9,6 +9,8 @@ uniform float uSmallWavesSpeed;
 uniform float uSmallIterations;
 
 varying float vElevation;
+varying vec3 vNormal;
+varying vec3 vPosition;
 
 #include ../includes/perlinClassic3D.glsl
 
@@ -33,5 +35,8 @@ void main()
     vec4 projectedPosition = projectionMatrix * viewPosition;
     gl_Position = projectedPosition;
 
+    // Varying
     vElevation = elevation;
+    vNormal = (modelMatrix * vec4(normal, 0.0)).xyz;
+    vPosition = modelPosition.xyz;
 }
