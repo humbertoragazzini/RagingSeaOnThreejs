@@ -43,7 +43,7 @@ To clone de repository follow this steps:
     2.b) After install gitbash in the command prompt select the path where you prefer to save the files.
 
     2.c) Execute the command in gitbash:
-    `git clone https://github.com/humbertoragazzini/ms-1-front-end.git `
+    `git clone https://github.com/humbertoragazzini/RagingSeaOnThreejs.git `
 
     2.d) After this you now can open the project with any ide such a Visual Studio.
 
