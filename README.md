@@ -1,6 +1,6 @@
 # RaginSea MiniProject - Humberto Ragazzini
 
-This is an example of shading, in this project we create a custom vertex/fragment shader to be used in THREEJS, where we manipulate the light and the color to simulate a sea, added tools to tweak the effect: [The Raging Sea](https://humbertoragazzini.github.io/RagingSeaOnThreejs/dist/)
+This is an example of shading, in this project we create a custom vertex/fragment shader to be used in THREEJS, where we manipulate the light and the color to simulate a sea, added tools to tweak the effect: [The Raging Sea](https://humbertoragazzini.github.io/RagingSeaOnThreejs/
 
 # **Frameworks and Tecnologies**
 
@@ -24,7 +24,7 @@ This is an example of shading, in this project we create a custom vertex/fragmen
 3. In this tab select settings.
 4. Click in pages in the option menu.
 5. Select in source branch master.
-6. Save, the project is deployed in github pages in the following link:[The Raging Sea](https://humbertoragazzini.github.io/RagingSeaOnThreejs/dist/)
+6. Save, the project is deployed in github pages in the following link:[The Raging Sea](https://humbertoragazzini.github.io/RagingSeaOnThreejs/
 
 ## **To clone my repository in github**
 
