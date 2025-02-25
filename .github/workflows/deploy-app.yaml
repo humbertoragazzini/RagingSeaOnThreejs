@@ -20,7 +20,7 @@ jobs:
       - name: Install dependiencies
         run: npm install --frozen-lockfile
       - name: Build the app
-        run: npm run Build
+        run: npm run build
       - name: Check files
         run: ls -al
       - name: Deploy to Github Pages
